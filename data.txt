@@ -1,0 +1,5 @@
+john login
+mary search
+john logout
+mary upload
+john search
